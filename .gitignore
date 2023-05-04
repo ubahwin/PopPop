@@ -83,3 +83,9 @@ crashlytics-build.properties
 
 # Built Visual Studio Code Extensions
 *.vsix
+
+### macOS ###
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
